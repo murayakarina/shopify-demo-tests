@@ -1,6 +1,6 @@
 # Shopify Demo Playwright Tests
 
-Automated UI tests for login functionality and Add to cart functionality using Playwright. Covers positive, negative, and validation scenarios to ensure a reliable authentication flow.
+Automated UI tests for login functionality and checkout functionality using Playwright. Covers positive, negative, and validation scenarios to ensure a reliable authentication flow.
 
 ## Prerequisites
 
@@ -41,6 +41,8 @@ npx playwright test --headed
 - Invalid login credentials  
 - Input validations  
 - UI behavior (password masking, error messages)
+- add to cart flow
+- checkout flow
 
 ## Reporting
 
