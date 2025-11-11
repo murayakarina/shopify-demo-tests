@@ -1,4 +1,4 @@
-# Playwright Login Tests
+# Playwright Shopify Demo Tests
 
 Automated UI tests for login functionality and Add to cart functionality using Playwright. Covers positive, negative, and validation scenarios to ensure a reliable authentication flow.
 
